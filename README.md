@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Next.js 14 Developer Portfolio Template
 
 A modern, responsive, and SEO-optimized **Next.js 14 portfolio template** designed for developers, designers, and professionals. This open-source project helps you showcase your skills, experience, and projects with an elegant interface that stands out. Built with server-side rendering, TypeScript, and the latest web standards for optimal performance.
@@ -127,3 +128,6 @@ This project is open source and available under the [MIT License](LICENSE).
 The easiest way to deploy your portfolio is using [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme), the platform from the creators of Next.js.
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# Portf-lio
+>>>>>>> 7673626115bec1137e143ed4655cdd5c0682fb48
