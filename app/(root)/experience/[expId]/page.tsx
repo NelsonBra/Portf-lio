@@ -127,15 +127,17 @@ export default function Experience({ params }: ExperiencePageProps) {
             <div>
               <p>{page.description}</p>
               {page.imgArr.map((img, ind) => (
-                <Image
-                  src={img}
-                  key={ind}
-                  alt={img}
-                  width={720}
-                  height={405}
-                  className="my-4 rounded-md border bg-muted transition-colors"
-                  priority
-                />
+                <div className="relative w-full max-w-[400px] aspect-video my-4">
+                  <Image
+                    src={img}
+                    alt={img}
+                    fill
+                    className="rounded-md border bg-muted transition-colors object-contain"
+                    priority
+                  />
+                </div>
+
+
               ))}
             </div>
           </div>

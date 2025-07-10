@@ -121,21 +121,21 @@ export const Experiences: ExperienceInterface[] = [
         imgArr: ["/experience/lagran/logo.png"],
         
       },
-      // {
-      //   title: "Quotes Download Component",
-      //   description:
-      //     "Feature allowing users to download quotes as beautiful images for social media sharing",
-      //   imgArr: [
-      //     "/experience/lagran/Untitled.png",
-      //     "/experience/superquotes/app_7.webp",
-      //   ],
-      // },
-      // {
-      //   title: "Account Management",
-      //   description:
-      //     "User profile management with favorites, history, and personalization settings",
-      //   imgArr: ["/experience/superquotes/app_6.webp"],
-      // },
+      {
+        title: "Quotes Download Component",
+        description:
+          "Feature allowing users to download quotes as beautiful images for social media sharing",
+        imgArr: [
+          "/experience/lagran/front3.png",
+          // "/experience/superquotes/app_7.webp",
+        ],
+      },
+      {
+        title: "Account Management",
+        description:
+          "User profile management with favorites, history, and personalization settings",
+        imgArr: ["/experience/lagran/front4.png"],
+      },
       // {
       //   title: "Interest Selection and Update Page",
       //   description:
